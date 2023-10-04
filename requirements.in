@@ -1,0 +1,13 @@
+leafmap
+pystac_client
+rasterio
+folium
+numpy
+matplotlib
+python-dotenv
+boto3
+tqdm
+ipywidgets
+nbgitpuller
+stackstac
+geopandas
