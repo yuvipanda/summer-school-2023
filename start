@@ -3,3 +3,5 @@
 # Temporary hack until https://github.com/jupyterhub/binderhub/issues/1765 lands
 
 ln -fs ${CONDA_DIR}/repo ${HOME}/summer-school-2023
+
+exec $@
