@@ -4,4 +4,4 @@
 # https://github.com/jupyterhub/binderhub/issues/1765 lands.
 
 mkdir ${CONDA_DIR}/repo
-cp -r ${REPO_DIR} ${CONDA_DIR}/repo
+cp -r ${REPO_DIR}/* ${CONDA_DIR}/repo/
