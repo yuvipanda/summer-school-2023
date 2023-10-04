@@ -10,3 +10,4 @@ tqdm
 ipywidgets
 nbgitpuller
 stackstac
+geopandas
